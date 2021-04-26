@@ -19,7 +19,7 @@ public class UserController {
 
 	@GetMapping("/firstapi")
 	public String firstApi() {
-		return "It is wrok!";
+		return "It is w!";
 	}
 	
 	@PostMapping("/users")
