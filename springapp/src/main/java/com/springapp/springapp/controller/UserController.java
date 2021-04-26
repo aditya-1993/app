@@ -19,7 +19,7 @@ public class UserController {
 
 	@GetMapping("/firstapi")
 	public String firstApi() {
-		return "It is working!";
+		return "It is hell yeah!";
 	}
 	
 	@PostMapping("/users")
